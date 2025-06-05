@@ -1,0 +1,59 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.title{
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
+
+.list{
+    background-color: #c8ff71;
+}
+
+.list li{
+    display: inline-block;
+    background-color: chartreuse;
+    padding: 150px;
+}
+
+.list a{
+    text-decoration: none;
+    margin-left: 50px;
+    color: blue;
+    font-size: 3em;
+}
+
+img{
+    margin-left: 40%;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+ul.lists_deco{
+    padding-left: 47%;
+}
+
+ol.lists_deco{
+    padding-left: 40%;
+    margin-bottom: 70px;
+}
+
+.lists_deco{
+    font-size: 25px;
+}
+
+.home{
+    font-size: 35px;
+    color: blueviolet;
+    padding-left: 48%;
+}
